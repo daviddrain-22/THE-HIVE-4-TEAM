@@ -116,6 +116,7 @@ main{
 
 .sec-pad{
     padding: 0 10rem;
+    
 }
 
  .main{
@@ -201,6 +202,8 @@ width: 100%;
     background-color: black;
     color: var(--bs-white);
     text-align: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.9);
+    height: 50vh;
 }
 
 .action_cta h1{
@@ -310,6 +313,7 @@ width: 100%;
     background-color: #efefef;
     width: 80%;
     height: 90vh;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.6);
     
 }
 
@@ -382,6 +386,11 @@ width: 100%;
 .uiux p{
     font-size: 16px;
     color: var(--bs-dark);
+}
+
+.uiux img{
+    width: 50px;
+    height: 50px;
 }
 
 .about-us{
